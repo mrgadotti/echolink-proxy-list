@@ -1,0 +1,761 @@
+K2MFF #30 -> 128.235.36.253:8100
+K2MFF #26 -> 128.235.36.249:8100
+K2MFF #12 -> 128.235.36.235:8100
+K2MFF #07 -> 128.235.36.230:8100
+PI4RAZ #157 -> 185.97.230.157:8100
+PI4RAZ #152 -> 185.97.230.152:8100
+WALDVIERTEL PROXY -> 185.236.164.44:8100
+VK5MMS 4 -> proxy4.vk5mms.net:8100
+VK5MMS 3 -> proxy3.vk5mms.net:8100
+VK5MMS 2 -> proxy2.vk5mms.net:8100
+VK5MMS 1 -> proxy1.vk5mms.net:8100
+VK5MMS 0 -> proxy0.vk5mms.net:8100
+9Z4RG #2 -> echolinkproxy2.ttreact.com:8100
+PE1CHL -> 185.103.159.238:8100
+LU2ICA-1 -> 131.108.142.84:8100
+K7DGF-1 -> 199.195.251.249:8100
+NX9G-31 -> 65.60.40.26:8100
+N9MUF-GRETSCH -> gretsch.gundo.com:8100
+N9MUF-IBANEZ -> ibanez.gundo.com:8100
+EA5GF-6 -> echoproxy7.ea5gf.es:8100
+EA5GF-38 -> echoproxy38.ea5gf.es:8100
+EA5GF-29 -> echoproxy29.ea5gf.es:8100
+EA5GF-21 -> echoproxy21.ea5gf.es:8100
+EA5GF-20 -> echoproxy20.ea5gf.es:8100
+EA5GF-17 -> echoproxy17.ea5gf.es:8100
+EA5GF-15 -> echoproxy15.ea5gf.es:8100
+EA5GF-10 -> echoproxy11.ea5gf.es:8100
+W6KWF 108 -> proxy108.echolink.thelifeofkenneth.com:8100
+W6KWF 107 -> proxy107.echolink.thelifeofkenneth.com:8100
+W6KWF 105 -> proxy105.echolink.thelifeofkenneth.com:8100
+W6KWF 103 -> proxy103.echolink.thelifeofkenneth.com:8100
+VK3JED 195 -> 44.190.8.195:8100
+VK3JED 193 -> 44.190.8.193:8100
+VK3JED 190 -> 44.190.8.190:8100
+VK3JED 189 -> 44.190.8.189:8100
+VK3JED 188 -> 44.190.8.188:8100
+VK3JED 182 -> 44.190.8.182:8100
+VK3JED 181 -> 44.190.8.181:8100
+VK3JED 180 -> 44.190.8.180:8100
+VK3JED 179 -> 44.190.8.179:8100
+VK3JED 176 -> 44.190.8.176:8100
+VK3JED 174 -> 44.190.8.174:8100
+VK3JED 173 -> 44.190.8.173:8100
+VK3JED 172 -> 44.190.8.172:8100
+VK3JED 169 -> 44.190.8.169:8100
+VK3JED 168 -> 44.190.8.168:8100
+VK3JED 166 -> 44.190.8.166:8100
+VK3JED 164 -> 44.190.8.164:8100
+VK3JED 162 -> 44.190.8.162:8100
+VK3JED 160 -> 44.190.8.160:8100
+VK3JED 159 -> 44.190.8.159:8100
+VK3JED 158 -> 44.190.8.158:8100
+VK3JED 156 -> 44.190.8.156:8100
+VK3JED 155 -> 44.190.8.155:8100
+VK3JED 152 -> 44.190.8.152:8100
+K9WAW #8 -> 44.72.16.253:8100
+K9WAW #7 -> 44.72.16.252:8100
+K9WAW #6 -> 44.72.16.251:8100
+K9WAW #5 -> 44.72.16.250:8100
+K9WAW #4 -> 44.72.16.249:8100
+K9WAW #3 -> 44.72.16.248:8100
+K9WAW #1 -> 44.72.16.246:8100
+K9WAW #0 -> 44.72.16.245:8100
+VK3JED 149 -> 44.190.8.149:8100
+VK3JED 148 -> 44.190.8.148:8100
+VK3JED 147 -> 44.190.8.147:8100
+VK3JED 146 -> 44.190.8.146:8100
+VK3JED 144 -> 44.190.8.144:8100
+VK3JED 143 -> 44.190.8.143:8100
+VK3JED 142 -> 44.190.8.142:8100
+VK3JED 141 -> 44.190.8.141:8100
+VK3JED 140 -> 44.190.8.140:8100
+VK3JED 139 -> 44.190.8.139:8100
+VK3JED 138 -> 44.190.8.138:8100
+VK3JED 135 -> 44.190.8.135:8100
+VK3JED 133 -> 44.190.8.133:8100
+VK3JED 132 -> 44.190.8.132:8100
+VK3JED 131 -> 44.190.8.131:8100
+VK3JED 130 -> 44.190.8.130:8100
+VK3JED 126 -> 44.190.8.126:8100
+VK3JED 124 -> 44.190.8.124:8100
+VK3JED 123 -> 44.190.8.123:8100
+VK3JED 122 -> 44.190.8.122:8100
+VK3JED 119 -> 44.190.8.119:8100
+VK3JED 118 -> 44.190.8.118:8100
+VK3JED 116 -> 44.190.8.116:8100
+VK3JED 114 -> 44.190.8.114:8100
+VK3JED 112 -> 44.190.8.112:8100
+VA4WAN_199 -> 44.190.9.215:48100
+VA4WAN_198 -> 44.190.9.214:48100
+VA4WAN_197 -> 44.190.9.213:48100
+VA4WAN_196 -> 44.190.9.212:48100
+VA4WAN_195 -> 44.190.9.211:48100
+VA4WAN_194 -> 44.190.9.210:48100
+VA4WAN_193 -> 44.190.9.209:48100
+VA4WAN_191 -> 44.190.9.207:48100
+VA4WAN_190 -> 44.190.9.206:48100
+VK3JED 109 -> 44.190.8.109:8100
+VK3JED 108 -> 44.190.8.108:8100
+VK3JED 107 -> 44.190.8.107:8100
+VK3JED 106 -> 44.190.8.106:8100
+VK3JED 105 -> 44.190.8.105:8100
+VK3JED 103 -> 44.190.8.103:8100
+VK3JED 102 -> 44.190.8.102:8100
+VA4WAN_189 -> 44.190.9.205:48100
+VK3JED 101 -> 44.190.8.101:8100
+VA4WAN_188 -> 44.190.9.204:48100
+VK3JED 100 -> 44.190.8.100:8100
+VA4WAN_187 -> 44.190.9.203:48100
+VA4WAN_185 -> 44.190.9.201:48100
+VA4WAN_184 -> 44.190.9.200:48100
+VA4WAN_183 -> 44.190.9.199:48100
+VA4WAN_182 -> 44.190.9.198:48100
+VA4WAN_181 -> 44.190.9.197:48100
+VA4WAN_180 -> 44.190.9.196:48100
+VA4WAN_179 -> 44.190.9.195:48100
+VA4WAN_177 -> 44.190.9.193:48100
+VA4WAN_176 -> 44.190.9.192:48100
+VA4WAN_174 -> 44.190.9.190:48100
+VA4WAN_172 -> 44.190.9.188:48100
+VA4WAN_171 -> 44.190.9.187:48100
+VA4WAN_170 -> 44.190.9.186:48100
+VA4WAN_169 -> 44.190.9.185:48100
+VA4WAN_168 -> 44.190.9.184:48100
+VA4WAN_167 -> 44.190.9.183:48100
+VA4WAN_166 -> 44.190.9.182:48100
+VA4WAN_165 -> 44.190.9.181:48100
+VA4WAN_163 -> 44.190.9.179:48100
+VA4WAN_162 -> 44.190.9.178:48100
+VA4WAN_161 -> 44.190.9.177:48100
+VA4WAN_160 -> 44.190.9.176:48100
+VA4WAN_159 -> 44.190.9.175:48100
+VA4WAN_158 -> 44.190.9.174:48100
+VA4WAN_157 -> 44.190.9.173:48100
+VA4WAN_156 -> 44.190.9.172:48100
+VA4WAN_155 -> 44.190.9.171:48100
+VA4WAN_153 -> 44.190.9.169:48100
+VA4WAN_152 -> 44.190.9.168:48100
+VA4WAN_151 -> 44.190.9.167:48100
+VA4WAN_150 -> 44.190.9.166:48100
+VA4WAN_149 -> 44.190.9.165:48100
+VA4WAN_148 -> 44.190.9.164:48100
+VA4WAN_147 -> 44.190.9.163:48100
+VA4WAN_146 -> 44.190.9.162:48100
+VA4WAN_145 -> 44.190.9.161:48100
+VA4WAN_144 -> 44.190.9.160:48100
+VA4WAN_143 -> 44.190.9.159:48100
+VA4WAN_141 -> 44.190.9.157:48100
+VA4WAN_140 -> 44.190.9.156:48100
+VA4WAN_139 -> 44.190.9.155:48100
+VA4WAN_138 -> 44.190.9.154:48100
+VA4WAN_137 -> 44.190.9.153:48100
+VA4WAN_136 -> 44.190.9.152:48100
+VA4WAN_135 -> 44.190.9.151:48100
+VA4WAN_134 -> 44.190.9.150:48100
+VA4WAN_133 -> 44.190.9.149:48100
+VA4WAN_132 -> 44.190.9.148:48100
+VA4WAN_131 -> 44.190.9.147:48100
+VA4WAN_130 -> 44.190.9.146:48100
+VA4WAN_129 -> 44.190.9.145:48100
+VA4WAN_128 -> 44.190.9.144:48100
+VA4WAN_127 -> 44.190.9.143:48100
+VA4WAN_126 -> 44.190.9.142:48100
+VA4WAN_125 -> 44.190.9.141:48100
+VA4WAN_124 -> 44.190.9.140:48100
+VA4WAN_123 -> 44.190.9.139:48100
+VA4WAN_122 -> 44.190.9.138:48100
+VA4WAN_121 -> 44.190.9.137:48100
+VA4WAN_120 -> 44.190.9.136:48100
+VA4WAN_119 -> 44.190.9.135:48100
+VA4WAN_118 -> 44.190.9.134:48100
+VA4WAN_117 -> 44.190.9.133:48100
+VA4WAN_116 -> 44.190.9.132:48100
+VA4WAN_115 -> 44.190.9.131:48100
+VA4WAN_114 -> 44.190.9.130:48100
+VA4WAN_113 -> 44.190.9.129:48100
+VA4WAN_111 -> 44.190.9.127:48100
+VA4WAN_110 -> 44.190.9.126:48100
+VA4WAN_109 -> 44.190.9.125:48100
+VA4WAN_108 -> 44.190.9.124:48100
+VA4WAN_107 -> 44.190.9.123:48100
+VA4WAN_106 -> 44.190.9.122:48100
+VA4WAN_104 -> 44.190.9.120:48100
+VA4WAN_103 -> 44.190.9.119:48100
+VA4WAN_102 -> 44.190.9.118:48100
+VA4WAN_101 -> 44.190.9.117:48100
+VK3JED 99 -> 44.190.8.99:8100
+VA4WAN_100 -> 44.190.9.116:48100
+VK3JED 98 -> 44.190.8.98:8100
+VK3JED 96 -> 44.190.8.96:8100
+VK3JED 95 -> 44.190.8.95:8100
+VK3JED 94 -> 44.190.8.94:8100
+VK3JED 93 -> 44.190.8.93:8100
+VK3JED 92 -> 44.190.8.92:8100
+VK3JED 91 -> 44.190.8.91:8100
+VK3JED 89 -> 44.190.8.89:8100
+VK3JED 88 -> 44.190.8.88:8100
+VK3JED 87 -> 44.190.8.87:8100
+VK3JED 86 -> 44.190.8.86:8100
+VK3JED 84 -> 44.190.8.84:8100
+VK3JED 83 -> 44.190.8.83:8100
+VK3JED 81 -> 44.190.8.81:8100
+VK3JED 80 -> 44.190.8.80:8100
+VK3JED 78 -> 44.190.8.78:8100
+VK3JED 77 -> 44.190.8.77:8100
+VK3JED 76 -> 44.190.8.76:8100
+VK3JED 75 -> 44.190.8.75:8100
+VK3JED 74 -> 44.190.8.74:8100
+VK3JED 73 -> 44.190.8.73:8100
+VK3JED 72 -> 44.190.8.72:8100
+VK3JED 71 -> 44.190.8.71:8100
+VK3JED 70 -> 44.190.8.70:8100
+VK3JED 69 -> 44.190.8.69:8100
+VK3JED 66 -> 44.190.8.66:8100
+VK3JED 65 -> 44.190.8.65:8100
+VK3JED 64 -> 44.190.8.64:8100
+VK3JED 63 -> 44.190.8.63:8100
+VK3JED 62 -> 44.190.8.62:8100
+VK3JED 60 -> 44.190.8.60:8100
+VK3JED 57 -> 44.190.8.57:8100
+VK3JED 55 -> 44.190.8.55:8100
+VK3JED 53 -> 44.190.8.53:8100
+VK3JED 52 -> 44.190.8.52:8100
+VK3JED 51 -> 44.190.8.51:8100
+WX5FWD 253 -> 44.76.15.253:8100
+WX5FWD 252 -> 44.76.15.252:8100
+WX5FWD 251 -> 44.76.15.251:8100
+WX5FWD 250 -> 44.76.15.250:8100
+WX5FWD 249 -> 44.76.15.249:8100
+WX5FWD 248 -> 44.76.15.248:8100
+WX5FWD 247 -> 44.76.15.247:8100
+WX5FWD 246 -> 44.76.15.246:8100
+WX5FWD 245 -> 44.76.15.245:8100
+WX5FWD 244 -> 44.76.15.244:8100
+WX5FWD 242 -> 44.76.15.242:8100
+WX5FWD 241 -> 44.76.15.241:8100
+WX5FWD 240 -> 44.76.15.240:8100
+WX5FWD 239 -> 44.76.15.239:8100
+WX5FWD 238 -> 44.76.15.238:8100
+WX5FWD 237 -> 44.76.15.237:8100
+WX5FWD 236 -> 44.76.15.236:8100
+WX5FWD 235 -> 44.76.15.235:8100
+WX5FWD 233 -> 44.76.15.233:8100
+WX5FWD 232 -> 44.76.15.232:8100
+WX5FWD 231 -> 44.76.15.231:8100
+WX5FWD 230 -> 44.76.15.230:8100
+WX5FWD 229 -> 44.76.15.229:8100
+WX5FWD 228 -> 44.76.15.228:8100
+WX5FWD 227 -> 44.76.15.227:8100
+WX5FWD 226 -> 44.76.15.226:8100
+WX5FWD 225 -> 44.76.15.225:8100
+WX5FWD 223 -> 44.76.15.223:8100
+WX5FWD 222 -> 44.76.15.222:8100
+WX5FWD 221 -> 44.76.15.221:8100
+WX5FWD 220 -> 44.76.15.220:8100
+WX5FWD 219 -> 44.76.15.219:8100
+WX5FWD 218 -> 44.76.15.218:8100
+WX5FWD 217 -> 44.76.15.217:8100
+WX5FWD 216 -> 44.76.15.216:8100
+WX5FWD 215 -> 44.76.15.215:8100
+WX5FWD 214 -> 44.76.15.214:8100
+WX5FWD 213 -> 44.76.15.213:8100
+WX5FWD 210 -> 44.76.15.210:8100
+WX5FWD 209 -> 44.76.15.209:8100
+WX5FWD 208 -> 44.76.15.208:8100
+WX5FWD 207 -> 44.76.15.207:8100
+WX5FWD 206 -> 44.76.15.206:8100
+WX5FWD 204 -> 44.76.15.204:8100
+WX5FWD 203 -> 44.76.15.203:8100
+WX5FWD 202 -> 44.76.15.202:8100
+VA4WAN_099 -> 44.190.9.115:48100
+VA4WAN_096 -> 44.190.9.112:48100
+VA4WAN_095 -> 44.190.9.111:48100
+VA4WAN_094 -> 44.190.9.110:48100
+VA4WAN_093 -> 44.190.9.109:48100
+VA4WAN_092 -> 44.190.9.108:48100
+VA4WAN_091 -> 44.190.9.107:48100
+VA4WAN_090 -> 44.190.9.106:48100
+VA4WAN_089 -> 44.190.9.105:48100
+VA4WAN_087 -> 44.190.9.103:48100
+VA4WAN_086 -> 44.190.9.102:48100
+VA4WAN_085 -> 44.190.9.101:48100
+VA4WAN_084 -> 44.190.9.100:48100
+VA4WAN_083 -> 44.190.9.99:48100
+VA4WAN_082 -> 44.190.9.98:48100
+VA4WAN_081 -> 44.190.9.97:48100
+VA4WAN_080 -> 44.190.9.96:48100
+VA4WAN_079 -> 44.190.9.95:48100
+VA4WAN_078 -> 44.190.9.94:48100
+VA4WAN_077 -> 44.190.9.93:48100
+VA4WAN_076 -> 44.190.9.92:48100
+VA4WAN_075 -> 44.190.9.91:48100
+VA4WAN_074 -> 44.190.9.90:48100
+VA4WAN_073 -> 44.190.9.89:48100
+VA4WAN_071 -> 44.190.9.87:48100
+VA4WAN_070 -> 44.190.9.86:48100
+VA4WAN_069 -> 44.190.9.85:48100
+VA4WAN_068 -> 44.190.9.84:48100
+VA4WAN_067 -> 44.190.9.83:48100
+VA4WAN_066 -> 44.190.9.82:48100
+VA4WAN_065 -> 44.190.9.81:48100
+VA4WAN_064 -> 44.190.9.80:48100
+VA4WAN_063 -> 44.190.9.79:48100
+VA4WAN_062 -> 44.190.9.78:48100
+VA4WAN_061 -> 44.190.9.77:48100
+VA4WAN_060 -> 44.190.9.76:48100
+VA4WAN_059 -> 44.190.9.75:48100
+VA4WAN_058 -> 44.190.9.74:48100
+VA4WAN_057 -> 44.190.9.73:48100
+VA4WAN_056 -> 44.190.9.72:48100
+VA4WAN_055 -> 44.190.9.71:48100
+VA4WAN_054 -> 44.190.9.70:48100
+VA4WAN_053 -> 44.190.9.69:48100
+VA4WAN_052 -> 44.190.9.68:48100
+VA4WAN_051 -> 44.190.9.67:48100
+VA4WAN_050 -> 44.190.9.66:48100
+VA4WAN_048 -> 44.190.9.64:48100
+VA4WAN_047 -> 44.190.9.63:48100
+VA4WAN_046 -> 44.190.9.62:48100
+VA4WAN_045 -> 44.190.9.61:48100
+VA4WAN_044 -> 44.190.9.60:48100
+VA4WAN_043 -> 44.190.9.59:48100
+VA4WAN_042 -> 44.190.9.58:48100
+VA4WAN_041 -> 44.190.9.57:48100
+VA4WAN_040 -> 44.190.9.56:48100
+VA4WAN_038 -> 44.190.9.54:48100
+VA4WAN_037 -> 44.190.9.53:48100
+VA4WAN_036 -> 44.190.9.52:48100
+VA4WAN_035 -> 44.190.9.51:48100
+VA4WAN_034 -> 44.190.9.50:48100
+VA4WAN_033 -> 44.190.9.49:48100
+VA4WAN_032 -> 44.190.9.48:48100
+VA4WAN_031 -> 44.190.9.47:48100
+VA4WAN_030 -> 44.190.9.46:48100
+VA4WAN_029 -> 44.190.9.45:48100
+VA4WAN_028 -> 44.190.9.44:48100
+VA4WAN_027 -> 44.190.9.43:48100
+VA4WAN_026 -> 44.190.9.42:48100
+VA4WAN_025 -> 44.190.9.41:48100
+VA4WAN_024 -> 44.190.9.40:48100
+VA4WAN_023 -> 44.190.9.39:48100
+VA4WAN_022 -> 44.190.9.38:48100
+VA4WAN_021 -> 44.190.9.37:48100
+VA4WAN_020 -> 44.190.9.36:48100
+VA4WAN_019 -> 44.190.9.35:48100
+VA4WAN_018 -> 44.190.9.34:48100
+VA4WAN_017 -> 44.190.9.33:48100
+VA4WAN_016 -> 44.190.9.32:48100
+VA4WAN_015 -> 44.190.9.31:48100
+VA4WAN_013 -> 44.190.9.29:48100
+VA4WAN_012 -> 44.190.9.28:48100
+VA4WAN_011 -> 44.190.9.27:48100
+VA4WAN_010 -> 44.190.9.26:48100
+VA4WAN_009 -> 44.190.9.25:48100
+VA4WAN_008 -> 44.190.9.24:48100
+VA4WAN_007 -> 44.190.9.23:48100
+VA4WAN_006 -> 44.190.9.22:48100
+VA4WAN_005 -> 44.190.9.21:48100
+VA4WAN_004 -> 44.190.9.20:48100
+VA4WAN_002 -> 44.190.9.18:48100
+VA4WAN_001 -> 44.190.9.17:48100
+VA4WAN_000 -> 44.190.9.16:48100
+W6KWF 9 -> proxy9.echolink.thelifeofkenneth.com:8100
+W6KWF 8 -> proxy8.echolink.thelifeofkenneth.com:8100
+W6KWF 7 -> proxy7.echolink.thelifeofkenneth.com:8100
+W6KWF 6 -> proxy6.echolink.thelifeofkenneth.com:8100
+W6KWF 5 -> proxy5.echolink.thelifeofkenneth.com:8100
+W6KWF 4 -> proxy4.echolink.thelifeofkenneth.com:8100
+W6KWF 2 -> proxy2.echolink.thelifeofkenneth.com:8100
+W6KWF 0 -> proxy0.echolink.thelifeofkenneth.com:8100
+W6KWF 99 -> proxy99.echolink.thelifeofkenneth.com:8100
+W6KWF 95 -> proxy95.echolink.thelifeofkenneth.com:8100
+W6KWF 94 -> proxy94.echolink.thelifeofkenneth.com:8100
+W6KWF 93 -> proxy93.echolink.thelifeofkenneth.com:8100
+W6KWF 92 -> proxy92.echolink.thelifeofkenneth.com:8100
+W6KWF 89 -> proxy89.echolink.thelifeofkenneth.com:8100
+W6KWF 88 -> proxy88.echolink.thelifeofkenneth.com:8100
+W6KWF 87 -> proxy87.echolink.thelifeofkenneth.com:8100
+W6KWF 85 -> proxy85.echolink.thelifeofkenneth.com:8100
+W6KWF 83 -> proxy83.echolink.thelifeofkenneth.com:8100
+W6KWF 82 -> proxy82.echolink.thelifeofkenneth.com:8100
+W6KWF 81 -> proxy81.echolink.thelifeofkenneth.com:8100
+W6KWF 80 -> proxy80.echolink.thelifeofkenneth.com:8100
+W6KWF 79 -> proxy79.echolink.thelifeofkenneth.com:8100
+W6KWF 77 -> proxy77.echolink.thelifeofkenneth.com:8100
+W6KWF 76 -> proxy76.echolink.thelifeofkenneth.com:8100
+W6KWF 74 -> proxy74.echolink.thelifeofkenneth.com:8100
+W6KWF 73 -> proxy73.echolink.thelifeofkenneth.com:8100
+W6KWF 72 -> proxy72.echolink.thelifeofkenneth.com:8100
+W6KWF 71 -> proxy71.echolink.thelifeofkenneth.com:8100
+W6KWF 70 -> proxy70.echolink.thelifeofkenneth.com:8100
+W6KWF 69 -> proxy69.echolink.thelifeofkenneth.com:8100
+W6KWF 68 -> proxy68.echolink.thelifeofkenneth.com:8100
+W6KWF 67 -> proxy67.echolink.thelifeofkenneth.com:8100
+W6KWF 65 -> proxy65.echolink.thelifeofkenneth.com:8100
+W6KWF 62 -> proxy62.echolink.thelifeofkenneth.com:8100
+W6KWF 61 -> proxy61.echolink.thelifeofkenneth.com:8100
+W6KWF 60 -> proxy60.echolink.thelifeofkenneth.com:8100
+W6KWF 58 -> proxy58.echolink.thelifeofkenneth.com:8100
+W6KWF 57 -> proxy57.echolink.thelifeofkenneth.com:8100
+W6KWF 56 -> proxy56.echolink.thelifeofkenneth.com:8100
+W6KWF 55 -> proxy55.echolink.thelifeofkenneth.com:8100
+W6KWF 54 -> proxy54.echolink.thelifeofkenneth.com:8100
+W6KWF 52 -> proxy52.echolink.thelifeofkenneth.com:8100
+W6KWF 51 -> proxy51.echolink.thelifeofkenneth.com:8100
+W6KWF 50 -> proxy50.echolink.thelifeofkenneth.com:8100
+W6KWF 49 -> proxy49.echolink.thelifeofkenneth.com:8100
+W6KWF 47 -> proxy47.echolink.thelifeofkenneth.com:8100
+W6KWF 46 -> proxy46.echolink.thelifeofkenneth.com:8100
+W6KWF 45 -> proxy45.echolink.thelifeofkenneth.com:8100
+W6KWF 43 -> proxy43.echolink.thelifeofkenneth.com:8100
+W6KWF 42 -> proxy42.echolink.thelifeofkenneth.com:8100
+W6KWF 41 -> proxy41.echolink.thelifeofkenneth.com:8100
+KK4DDF 68 -> proxy69.echolink.kk4ddf.org:8100
+W6KWF 40 -> proxy40.echolink.thelifeofkenneth.com:8100
+KK4DDF 67 -> proxy68.echolink.kk4ddf.org:8100
+KK4DDF 66 -> proxy67.echolink.kk4ddf.org:8100
+KK4DDF 64 -> proxy65.echolink.kk4ddf.org:8100
+KK4DDF 63 -> proxy64.echolink.kk4ddf.org:8100
+KK4DDF 62 -> proxy63.echolink.kk4ddf.org:8100
+KK4DDF 61 -> proxy62.echolink.kk4ddf.org:8100
+KK4DDF 60 -> proxy61.echolink.kk4ddf.org:8100
+W6KWF 39 -> proxy39.echolink.thelifeofkenneth.com:8100
+W6KWF 38 -> proxy38.echolink.thelifeofkenneth.com:8100
+W6KWF 37 -> proxy37.echolink.thelifeofkenneth.com:8100
+W6KWF 36 -> proxy36.echolink.thelifeofkenneth.com:8100
+W6KWF 35 -> proxy35.echolink.thelifeofkenneth.com:8100
+W6KWF 34 -> proxy34.echolink.thelifeofkenneth.com:8100
+W6KWF 33 -> proxy33.echolink.thelifeofkenneth.com:8100
+W6KWF 32 -> proxy32.echolink.thelifeofkenneth.com:8100
+KK4DDF 59 -> proxy60.echolink.kk4ddf.org:8100
+W6KWF 31 -> proxy31.echolink.thelifeofkenneth.com:8100
+KK4DDF 58 -> proxy59.echolink.kk4ddf.org:8100
+W6KWF 30 -> proxy30.echolink.thelifeofkenneth.com:8100
+KK4DDF 57 -> proxy58.echolink.kk4ddf.org:8100
+KK4DDF 56 -> proxy57.echolink.kk4ddf.org:8100
+KK4DDF 54 -> proxy55.echolink.kk4ddf.org:8100
+KK4DDF 53 -> proxy54.echolink.kk4ddf.org:8100
+KK4DDF 52 -> proxy53.echolink.kk4ddf.org:8100
+W6KWF 28 -> proxy28.echolink.thelifeofkenneth.com:8100
+W6KWF 27 -> proxy27.echolink.thelifeofkenneth.com:8100
+W6KWF 26 -> proxy26.echolink.thelifeofkenneth.com:8100
+W6KWF 25 -> proxy25.echolink.thelifeofkenneth.com:8100
+W6KWF 24 -> proxy24.echolink.thelifeofkenneth.com:8100
+W6KWF 23 -> proxy23.echolink.thelifeofkenneth.com:8100
+W6KWF 22 -> proxy22.echolink.thelifeofkenneth.com:8100
+KK4DDF 49 -> proxy50.echolink.kk4ddf.org:8100
+W6KWF 21 -> proxy21.echolink.thelifeofkenneth.com:8100
+KK4DDF 48 -> proxy49.echolink.kk4ddf.org:8100
+W6KWF 20 -> proxy20.echolink.thelifeofkenneth.com:8100
+KK4DDF 46 -> proxy47.echolink.kk4ddf.org:8100
+KK4DDF 44 -> proxy45.echolink.kk4ddf.org:8100
+KK4DDF 42 -> proxy43.echolink.kk4ddf.org:8100
+KK4DDF 40 -> proxy41.echolink.kk4ddf.org:8100
+W6KWF 19 -> proxy19.echolink.thelifeofkenneth.com:8100
+W6KWF 18 -> proxy18.echolink.thelifeofkenneth.com:8100
+W6KWF 16 -> proxy16.echolink.thelifeofkenneth.com:8100
+W6KWF 15 -> proxy15.echolink.thelifeofkenneth.com:8100
+W6KWF 14 -> proxy14.echolink.thelifeofkenneth.com:8100
+W6KWF 13 -> proxy13.echolink.thelifeofkenneth.com:8100
+W6KWF 12 -> proxy12.echolink.thelifeofkenneth.com:8100
+KK4DDF 39 -> proxy40.echolink.kk4ddf.org:8100
+W6KWF 11 -> proxy11.echolink.thelifeofkenneth.com:8100
+KK4DDF 38 -> proxy39.echolink.kk4ddf.org:8100
+KK4DDF 36 -> proxy37.echolink.kk4ddf.org:8100
+KK4DDF 35 -> proxy36.echolink.kk4ddf.org:8100
+KK4DDF 34 -> proxy35.echolink.kk4ddf.org:8100
+KK4DDF 33 -> proxy34.echolink.kk4ddf.org:8100
+KK4DDF 31 -> proxy32.echolink.kk4ddf.org:8100
+KK4DDF 30 -> proxy31.echolink.kk4ddf.org:8100
+KK4DDF 28 -> proxy29.echolink.kk4ddf.org:8100
+KK4DDF 27 -> proxy28.echolink.kk4ddf.org:8100
+KK4DDF 26 -> proxy27.echolink.kk4ddf.org:8100
+KK4DDF 25 -> proxy26.echolink.kk4ddf.org:8100
+KK4DDF 23 -> proxy24.echolink.kk4ddf.org:8100
+KK4DDF 22 -> proxy23.echolink.kk4ddf.org:8100
+KK4DDF 21 -> proxy22.echolink.kk4ddf.org:8100
+KK4DDF 20 -> proxy21.echolink.kk4ddf.org:8100
+KK4DDF 18 -> proxy19.echolink.kk4ddf.org:8100
+KK4DDF 17 -> proxy18.echolink.kk4ddf.org:8100
+KK4DDF 16 -> proxy17.echolink.kk4ddf.org:8100
+KK4DDF 15 -> proxy16.echolink.kk4ddf.org:8100
+KK4DDF 14 -> proxy15.echolink.kk4ddf.org:8100
+KK4DDF 13 -> proxy14.echolink.kk4ddf.org:8100
+KK4DDF 12 -> proxy13.echolink.kk4ddf.org:8100
+KK4DDF 11 -> proxy12.echolink.kk4ddf.org:8100
+KK4DDF 10 -> proxy11.echolink.kk4ddf.org:8100
+KK4DDF 08 -> proxy9.echolink.kk4ddf.org:8100
+KK4DDF 06 -> proxy7.echolink.kk4ddf.org:8100
+KK4DDF 05 -> proxy6.echolink.kk4ddf.org:8100
+KK4DDF 04 -> proxy5.echolink.kk4ddf.org:8100
+KK4DDF 03 -> proxy4.echolink.kk4ddf.org:8100
+KK4DDF 01 -> proxy2.echolink.kk4ddf.org:8100
+W6KWF 197 -> proxy197.echolink.thelifeofkenneth.com:8100
+W6KWF 196 -> proxy196.echolink.thelifeofkenneth.com:8100
+W6KWF 195 -> proxy195.echolink.thelifeofkenneth.com:8100
+W6KWF 194 -> proxy194.echolink.thelifeofkenneth.com:8100
+W6KWF 193 -> proxy193.echolink.thelifeofkenneth.com:8100
+W6KWF 192 -> proxy192.echolink.thelifeofkenneth.com:8100
+W6KWF 191 -> proxy191.echolink.thelifeofkenneth.com:8100
+W6KWF 190 -> proxy190.echolink.thelifeofkenneth.com:8100
+W6KWF 189 -> proxy189.echolink.thelifeofkenneth.com:8100
+W6KWF 188 -> proxy188.echolink.thelifeofkenneth.com:8100
+W6KWF 187 -> proxy187.echolink.thelifeofkenneth.com:8100
+W6KWF 185 -> proxy185.echolink.thelifeofkenneth.com:8100
+W6KWF 181 -> proxy181.echolink.thelifeofkenneth.com:8100
+W6KWF 180 -> proxy180.echolink.thelifeofkenneth.com:8100
+W6KWF 178 -> proxy178.echolink.thelifeofkenneth.com:8100
+W6KWF 177 -> proxy177.echolink.thelifeofkenneth.com:8100
+W6KWF 176 -> proxy176.echolink.thelifeofkenneth.com:8100
+W6KWF 175 -> proxy175.echolink.thelifeofkenneth.com:8100
+W6KWF 174 -> proxy174.echolink.thelifeofkenneth.com:8100
+W6KWF 173 -> proxy173.echolink.thelifeofkenneth.com:8100
+W6KWF 172 -> proxy172.echolink.thelifeofkenneth.com:8100
+W6KWF 171 -> proxy171.echolink.thelifeofkenneth.com:8100
+W6KWF 170 -> proxy170.echolink.thelifeofkenneth.com:8100
+W6KWF 169 -> proxy169.echolink.thelifeofkenneth.com:8100
+W6KWF 168 -> proxy168.echolink.thelifeofkenneth.com:8100
+W6KWF 167 -> proxy167.echolink.thelifeofkenneth.com:8100
+W6KWF 166 -> proxy166.echolink.thelifeofkenneth.com:8100
+W6KWF 165 -> proxy165.echolink.thelifeofkenneth.com:8100
+W6KWF 164 -> proxy164.echolink.thelifeofkenneth.com:8100
+W6KWF 163 -> proxy163.echolink.thelifeofkenneth.com:8100
+W6KWF 162 -> proxy162.echolink.thelifeofkenneth.com:8100
+W6KWF 161 -> proxy161.echolink.thelifeofkenneth.com:8100
+W6KWF 160 -> proxy160.echolink.thelifeofkenneth.com:8100
+W6KWF 159 -> proxy159.echolink.thelifeofkenneth.com:8100
+W6KWF 158 -> proxy158.echolink.thelifeofkenneth.com:8100
+W6KWF 156 -> proxy156.echolink.thelifeofkenneth.com:8100
+W6KWF 154 -> proxy154.echolink.thelifeofkenneth.com:8100
+W6KWF 153 -> proxy153.echolink.thelifeofkenneth.com:8100
+W6KWF 152 -> proxy152.echolink.thelifeofkenneth.com:8100
+W6KWF 151 -> proxy151.echolink.thelifeofkenneth.com:8100
+W6KWF 150 -> proxy150.echolink.thelifeofkenneth.com:8100
+W6KWF 149 -> proxy149.echolink.thelifeofkenneth.com:8100
+W6KWF 148 -> proxy148.echolink.thelifeofkenneth.com:8100
+W6KWF 147 -> proxy147.echolink.thelifeofkenneth.com:8100
+W6KWF 145 -> proxy145.echolink.thelifeofkenneth.com:8100
+W6KWF 144 -> proxy144.echolink.thelifeofkenneth.com:8100
+W6KWF 143 -> proxy143.echolink.thelifeofkenneth.com:8100
+W6KWF 142 -> proxy142.echolink.thelifeofkenneth.com:8100
+W6KWF 140 -> proxy140.echolink.thelifeofkenneth.com:8100
+W6KWF 138 -> proxy138.echolink.thelifeofkenneth.com:8100
+W6KWF 137 -> proxy137.echolink.thelifeofkenneth.com:8100
+W6KWF 136 -> proxy136.echolink.thelifeofkenneth.com:8100
+W6KWF 134 -> proxy134.echolink.thelifeofkenneth.com:8100
+W6KWF 133 -> proxy133.echolink.thelifeofkenneth.com:8100
+W6KWF 132 -> proxy132.echolink.thelifeofkenneth.com:8100
+W6KWF 131 -> proxy131.echolink.thelifeofkenneth.com:8100
+W6KWF 130 -> proxy130.echolink.thelifeofkenneth.com:8100
+W6KWF 129 -> proxy129.echolink.thelifeofkenneth.com:8100
+W6KWF 128 -> proxy128.echolink.thelifeofkenneth.com:8100
+W6KWF 127 -> proxy127.echolink.thelifeofkenneth.com:8100
+W6KWF 126 -> proxy126.echolink.thelifeofkenneth.com:8100
+W6KWF 125 -> proxy125.echolink.thelifeofkenneth.com:8100
+W6KWF 124 -> proxy124.echolink.thelifeofkenneth.com:8100
+W6KWF 122 -> proxy122.echolink.thelifeofkenneth.com:8100
+W6KWF 121 -> proxy121.echolink.thelifeofkenneth.com:8100
+W6KWF 120 -> proxy120.echolink.thelifeofkenneth.com:8100
+W6KWF 119 -> proxy119.echolink.thelifeofkenneth.com:8100
+W6KWF 118 -> proxy118.echolink.thelifeofkenneth.com:8100
+W6KWF 116 -> proxy116.echolink.thelifeofkenneth.com:8100
+W6KWF 115 -> proxy115.echolink.thelifeofkenneth.com:8100
+W6KWF 113 -> proxy113.echolink.thelifeofkenneth.com:8100
+W6KWF 112 -> proxy112.echolink.thelifeofkenneth.com:8100
+W6KWF 111 -> proxy111.echolink.thelifeofkenneth.com:8100
+POLAND #1 -> 51.83.134.252:8100
+KM0H AZURE WEST -> elproxy-west.km0h.radio:8100
+PI4RAZ #11 -> 83.80.133.0:8100
+HAMCLOUD3 #159 -> 137.226.114.159:8100
+HAMCLOUD3 #158 -> 137.226.114.158:8100
+HAMCLOUD3 #155 -> 137.226.114.155:8100
+HAMCLOUD3 #153 -> 137.226.114.153:8100
+HAMCLOUD3 #150 -> 137.226.114.150:8100
+HAMCLOUD3 #149 -> 137.226.114.149:8100
+HAMCLOUD3 #148 -> 137.226.114.148:8100
+HAMCLOUD3 #146 -> 137.226.114.146:8100
+HAMCLOUD3 #145 -> 137.226.114.145:8100
+HAMCLOUD3 #141 -> 137.226.114.141:8100
+HAMCLOUD3 #139 -> 137.226.114.139:8100
+HAMCLOUD3 #138 -> 137.226.114.138:8100
+HAMCLOUD3 #133 -> 137.226.114.133:8100
+HAMCLOUD3 #132 -> 137.226.114.132:8100
+HAMCLOUD3 #128 -> 137.226.114.128:8100
+HAMCLOUD3 #124 -> 137.226.114.124:8100
+HAMCLOUD3 #120 -> 137.226.114.120:8100
+HAMCLOUD3 #117 -> 137.226.114.117:8100
+HAMCLOUD3 #116 -> 137.226.114.116:8100
+HAMCLOUD3 #112 -> 137.226.114.112:8100
+HAMCLOUD3 #110 -> 137.226.114.110:8100
+HAMCLOUD3 #108 -> 137.226.114.108:8100
+HAMCLOUD3 #103 -> 137.226.114.103:8100
+HAMCLOUD3 #098 -> 137.226.114.98:8100
+HAMCLOUD3 #094 -> 137.226.114.94:8100
+HAMCLOUD3 #091 -> 137.226.114.91:8100
+HAMCLOUD3 #088 -> 137.226.114.88:8100
+HAMCLOUD3 #087 -> 137.226.114.87:8100
+HAMCLOUD3 #082 -> 137.226.114.82:8100
+HAMCLOUD3 #081 -> 137.226.114.81:8100
+HAMCLOUD3 #074 -> 137.226.114.74:8100
+HAMCLOUD3 #073 -> 137.226.114.73:8100
+HAMCLOUD3 #072 -> 137.226.114.72:8100
+HAMCLOUD3 #068 -> 137.226.114.68:8100
+HAMCLOUD3 #064 -> 137.226.114.64:8100
+HAMCLOUD3 #063 -> 137.226.114.63:8100
+HAMCLOUD3 #062 -> 137.226.114.62:8100
+HAMCLOUD3 #061 -> 137.226.114.61:8100
+HAMCLOUD3 #058 -> 137.226.114.58:8100
+HAMCLOUD3 #056 -> 137.226.114.56:8100
+HAMCLOUD3 #055 -> 137.226.114.55:8100
+HAMCLOUD3 #053 -> 137.226.114.53:8100
+HAMCLOUD3 #051 -> 137.226.114.51:8100
+HAMCLOUD3 #050 -> 137.226.114.50:8100
+HAMCLOUD3 #049 -> 137.226.114.49:8100
+HAMCLOUD3 #046 -> 137.226.114.46:8100
+HAMCLOUD3 #040 -> 137.226.114.40:8100
+HAMCLOUD3 #038 -> 137.226.114.38:8100
+HAMCLOUD3 #037 -> 137.226.114.37:8100
+HAMCLOUD3 #035 -> 137.226.114.35:8100
+HAMCLOUD3 #034 -> 137.226.114.34:8100
+HAMCLOUD3 #030 -> 137.226.114.30:8100
+HAMCLOUD3 #028 -> 137.226.114.28:8100
+HAMCLOUD3 #025 -> 137.226.114.25:8100
+HAMCLOUD3 #024 -> 137.226.114.24:8100
+HAMCLOUD3 #021 -> 137.226.114.21:8100
+HAMCLOUD3 #020 -> 137.226.114.20:8100
+HAMCLOUD3 #019 -> 137.226.114.19:8100
+HAMCLOUD3 #018 -> 137.226.114.18:8100
+HAMCLOUD3 #017 -> 137.226.114.17:8100
+HAMCLOUD3 #015 -> 137.226.114.15:8100
+HAMCLOUD3 #011 -> 137.226.114.11:8100
+HAMCLOUD3 #005 -> 137.226.114.5:8100
+HAMCLOUD3 #003 -> 137.226.114.3:8100
+PI9NOZ #099 -> elp099.pi9noz.ampr.org:8100
+PI9NOZ #095 -> elp095.pi9noz.ampr.org:8100
+PI9NOZ #094 -> elp094.pi9noz.ampr.org:8100
+PI9NOZ #093 -> elp093.pi9noz.ampr.org:8100
+PI9NOZ #091 -> elp091.pi9noz.ampr.org:8100
+PI9NOZ #090 -> elp090.pi9noz.ampr.org:8100
+PI9NOZ #084 -> elp084.pi9noz.ampr.org:8100
+PI9NOZ #081 -> elp081.pi9noz.ampr.org:8100
+PI9NOZ #079 -> elp079.pi9noz.ampr.org:8100
+PI9NOZ #077 -> elp077.pi9noz.ampr.org:8100
+PI9NOZ #074 -> elp074.pi9noz.ampr.org:8100
+PI9NOZ #069 -> elp069.pi9noz.ampr.org:8100
+PI9NOZ #068 -> elp068.pi9noz.ampr.org:8100
+PI9NOZ #066 -> elp066.pi9noz.ampr.org:8100
+PI9NOZ #064 -> elp064.pi9noz.ampr.org:8100
+PI9NOZ #062 -> elp062.pi9noz.ampr.org:8100
+PI9NOZ #061 -> elp061.pi9noz.ampr.org:8100
+PI9NOZ #059 -> elp059.pi9noz.ampr.org:8100
+PI9NOZ #056 -> elp056.pi9noz.ampr.org:8100
+PI9NOZ #050 -> elp050.pi9noz.ampr.org:8100
+PI9NOZ #046 -> elp046.pi9noz.ampr.org:8100
+PI9NOZ #043 -> elp043.pi9noz.ampr.org:8100
+PI9NOZ #038 -> elp038.pi9noz.ampr.org:8100
+PI9NOZ #035 -> elp035.pi9noz.ampr.org:8100
+PI9NOZ #031 -> elp031.pi9noz.ampr.org:8100
+PI9NOZ #027 -> elp027.pi9noz.ampr.org:8100
+PI9NOZ #025 -> elp025.pi9noz.ampr.org:8100
+PI9NOZ #024 -> elp024.pi9noz.ampr.org:8100
+PI9NOZ #023 -> elp023.pi9noz.ampr.org:8100
+PI9NOZ #022 -> elp022.pi9noz.ampr.org:8100
+PI9NOZ #021 -> elp021.pi9noz.ampr.org:8100
+PI9NOZ #015 -> elp015.pi9noz.ampr.org:8100
+PI9NOZ #014 -> elp014.pi9noz.ampr.org:8100
+PI9NOZ #011 -> elp011.pi9noz.ampr.org:8100
+PI9NOZ #003 -> elp003.pi9noz.ampr.org:8100
+PI9NOZ #227 -> elp227.pi9noz.ampr.org:8100
+PI9NOZ #226 -> elp226.pi9noz.ampr.org:8100
+PI9NOZ #224 -> elp224.pi9noz.ampr.org:8100
+PI9NOZ #223 -> elp223.pi9noz.ampr.org:8100
+PI9NOZ #221 -> elp221.pi9noz.ampr.org:8100
+PI9NOZ #220 -> elp220.pi9noz.ampr.org:8100
+PI9NOZ #218 -> elp218.pi9noz.ampr.org:8100
+PI9NOZ #216 -> elp216.pi9noz.ampr.org:8100
+PI9NOZ #215 -> elp215.pi9noz.ampr.org:8100
+PI9NOZ #212 -> elp212.pi9noz.ampr.org:8100
+PI9NOZ #211 -> elp211.pi9noz.ampr.org:8100
+PI9NOZ #209 -> elp209.pi9noz.ampr.org:8100
+PI9NOZ #207 -> elp207.pi9noz.ampr.org:8100
+PI9NOZ #206 -> elp206.pi9noz.ampr.org:8100
+PI9NOZ #205 -> elp205.pi9noz.ampr.org:8100
+PI9NOZ #203 -> elp203.pi9noz.ampr.org:8100
+PI9NOZ #202 -> elp202.pi9noz.ampr.org:8100
+PI4RAZ #242 -> 44.137.1.242:8100
+PI4RAZ #241 -> 44.137.1.241:8100
+PI9NOZ #198 -> elp198.pi9noz.ampr.org:8100
+PI9NOZ #197 -> elp197.pi9noz.ampr.org:8100
+PI9NOZ #196 -> elp196.pi9noz.ampr.org:8100
+PI9NOZ #194 -> elp194.pi9noz.ampr.org:8100
+PI9NOZ #192 -> elp192.pi9noz.ampr.org:8100
+PI9NOZ #191 -> elp191.pi9noz.ampr.org:8100
+PI9NOZ #188 -> elp188.pi9noz.ampr.org:8100
+PI9NOZ #187 -> elp187.pi9noz.ampr.org:8100
+PI9NOZ #184 -> elp184.pi9noz.ampr.org:8100
+PI9NOZ #183 -> elp183.pi9noz.ampr.org:8100
+PI9NOZ #181 -> elp181.pi9noz.ampr.org:8100
+PI9NOZ #180 -> elp180.pi9noz.ampr.org:8100
+PI9NOZ #179 -> elp179.pi9noz.ampr.org:8100
+PI9NOZ #178 -> elp178.pi9noz.ampr.org:8100
+PI9NOZ #174 -> elp174.pi9noz.ampr.org:8100
+PI9NOZ #172 -> elp172.pi9noz.ampr.org:8100
+PI9NOZ #171 -> elp171.pi9noz.ampr.org:8100
+PI9NOZ #170 -> elp170.pi9noz.ampr.org:8100
+PI9NOZ #169 -> elp169.pi9noz.ampr.org:8100
+PI9NOZ #163 -> elp163.pi9noz.ampr.org:8100
+PI9NOZ #160 -> elp160.pi9noz.ampr.org:8100
+PI9NOZ #159 -> elp159.pi9noz.ampr.org:8100
+PI9NOZ #157 -> elp157.pi9noz.ampr.org:8100
+PI9NOZ #156 -> elp156.pi9noz.ampr.org:8100
+PI9NOZ #155 -> elp155.pi9noz.ampr.org:8100
+PI9NOZ #153 -> elp153.pi9noz.ampr.org:8100
+PI9NOZ #152 -> elp152.pi9noz.ampr.org:8100
+PI9NOZ #149 -> elp149.pi9noz.ampr.org:8100
+PI9NOZ #147 -> elp147.pi9noz.ampr.org:8100
+PI9NOZ #146 -> elp146.pi9noz.ampr.org:8100
+PI9NOZ #144 -> elp144.pi9noz.ampr.org:8100
+PI9NOZ #140 -> elp140.pi9noz.ampr.org:8100
+PI9NOZ #139 -> elp139.pi9noz.ampr.org:8100
+PI9NOZ #135 -> elp135.pi9noz.ampr.org:8100
+PI9NOZ #134 -> elp134.pi9noz.ampr.org:8100
+PI9NOZ #132 -> elp132.pi9noz.ampr.org:8100
+PI9NOZ #131 -> elp131.pi9noz.ampr.org:8100
+PI9NOZ #130 -> elp130.pi9noz.ampr.org:8100
+PI9NOZ #129 -> elp129.pi9noz.ampr.org:8100
+PI9NOZ #126 -> elp126.pi9noz.ampr.org:8100
+PI9NOZ #123 -> elp123.pi9noz.ampr.org:8100
+PI9NOZ #122 -> elp122.pi9noz.ampr.org:8100
+PI9NOZ #120 -> elp120.pi9noz.ampr.org:8100
+PI9NOZ #119 -> elp119.pi9noz.ampr.org:8100
+PI9NOZ #113 -> elp113.pi9noz.ampr.org:8100
+PI9NOZ #109 -> elp109.pi9noz.ampr.org:8100
+PI9NOZ #108 -> elp108.pi9noz.ampr.org:8100
+PI9NOZ #107 -> elp107.pi9noz.ampr.org:8100
+PI9NOZ #106 -> elp106.pi9noz.ampr.org:8100
+PI9NOZ #104 -> elp104.pi9noz.ampr.org:8100
+PI9NOZ #100 -> elp100.pi9noz.ampr.org:8100
+PI4RAZ #162 -> 62.177.177.162:8100
+PI4RAZ #4 -> 62.177.212.84:8100
+PI4RAZ #3 -> 62.177.212.83:8100
+PI4RAZ #173 -> 62.177.204.173:8100
+EA5GF-26 -> echoproxy26.ea5gf.es:8100
+HS7SSN #01 -> 203.150.243.162:443
+E25ECY #4 -> 58.97.1.54:8100
+E25GKH 57 -> 122.155.180.57:8100
+E25ECY #9 -> 210.86.146.246:8100
+TH #32 -> 202.29.6.95:443
+TH #28 -> 202.29.6.91:443
+TH #27 -> 202.29.6.90:443
+TH #24 -> 202.29.6.87:443
+TH #20 -> 202.29.6.83:443
+TH #18 -> 202.29.6.81:443
+TH #16 -> 202.29.6.79:443
+TH #14 -> 202.29.6.77:443
+TH #12 -> 202.29.6.75:443
+TH #11 -> 202.29.6.74:443
+TH #6 -> 202.29.6.69:443
+TH #3 -> 202.29.6.66:443
+TH #2 -> 202.29.6.65:443
+TH #1 -> 202.29.6.64:443
